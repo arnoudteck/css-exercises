@@ -1,13 +1,15 @@
-.odd-numbers {
+.odd-numbered-elements {
     background-color: hsl(360, 70%, 80%);
     font-family: Verdana, "DejaVu Sans, sans-serif";
 }
 
-#number-two {
+#second-element {
     color: rgb(0, 125, 250);
     font-size: 36px;
 }
 
-.number-three {
+.third-element {
     font-size: 24px;
 }
+
+.number
