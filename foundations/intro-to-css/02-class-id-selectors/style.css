@@ -1,6 +1,6 @@
 .odd-numbered-elements {
     background-color: hsl(360, 70%, 80%);
-    font-family: Verdana, "DejaVu Sans, sans-serif";
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 #second-element {
@@ -12,4 +12,8 @@
     font-size: 24px;
 }
 
-.number
+#fourth-element {
+    background-color: #73ff00;
+    font-size: 24px;
+    font-weight: 700;
+}
