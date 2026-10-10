@@ -13,6 +13,7 @@ body {
 .content,
 .button-container {
   background: dodgerblue;
+  font-size: 16px;
 }
 
 button {
