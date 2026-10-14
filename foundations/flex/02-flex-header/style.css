@@ -5,7 +5,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 10px 0;
+  padding: 10px;
 }
 
 .logo {
@@ -21,7 +21,7 @@ ul {
   list-style-type: none;
   display: flex;
   gap: 20px;
-  margin: 10px;
+  margin: 0;
   padding: 0;
 }
 
