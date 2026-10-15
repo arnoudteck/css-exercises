@@ -28,6 +28,19 @@ body {
   box-sizing: border-box;
 }
 
+.content .sidebar ul {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 16px;
+}
+
+.content .sidebar a {
+  text-decoration: none;
+  color: white;
+}
+
 .cards {
   display: flex;
   flex-wrap: wrap;
