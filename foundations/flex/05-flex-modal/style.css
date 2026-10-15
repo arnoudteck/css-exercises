@@ -35,6 +35,11 @@ body {
   justify-content: center;
 }
 
+.header {
+  font-weight: bold;
+  font-size: 20px;
+}
+
 .close-button {
   background: #eee;
   border-radius: 50%;
@@ -82,4 +87,5 @@ button.cancel {
 
 .container-buttons {
   display: flex;
+  gap: 8px;
 }
