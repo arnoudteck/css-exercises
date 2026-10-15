@@ -14,10 +14,23 @@ img {
 
 .container-title {
   display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .container-objects {
   display: flex;
+  justify-content: space-evenly;
+}
+
+.object {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.object .text {
+  text-align: center;
 }
 
 /* do not edit this footer */
