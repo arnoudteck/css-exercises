@@ -41,6 +41,7 @@ a {
 .header {
   display: flex;
   justify-content: space-between;
+  padding: 8px;
 }
 
 .left-links {
@@ -64,4 +65,5 @@ a {
   display: flex;
   justify-content: space-between;
   background-color: lightgrey;
+  padding: 8px;
 }
