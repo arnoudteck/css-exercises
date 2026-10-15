@@ -10,7 +10,7 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
-  margin: 16px;
+  margin: 32px;
 }
 
 .container-title {
@@ -22,7 +22,7 @@ img {
 .container-objects {
   display: flex;
   justify-content: space-evenly;
-  gap: 16px;
+  gap: 52px;
 }
 
 .object {
