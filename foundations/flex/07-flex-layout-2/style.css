@@ -22,8 +22,26 @@ body {
   flex: 1;
 }
 
+.sidebar {
+  width: 300px;
+  background: royalblue;
+  box-sizing: border-box;
+}
+
 .cards {
   display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+.card {
+  border: 1px solid #eee;
+  box-shadow: 2px 4px 16px rgba(0,0,0,.06);
+  border-radius: 4px;
+  width: 200px;
+  height: 200px;
+  padding: 8px;
+  flex: 0 1 auto;
 }
 
 .footer {
@@ -33,16 +51,4 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-}
-
-.sidebar {
-  width: 300px;
-  background: royalblue;
-  box-sizing: border-box;
-}
-
-.card {
-  border: 1px solid #eee;
-  box-shadow: 2px 4px 16px rgba(0,0,0,.06);
-  border-radius: 4px;
 }
