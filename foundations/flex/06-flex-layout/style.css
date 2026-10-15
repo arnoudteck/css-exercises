@@ -59,3 +59,9 @@ a {
   align-items: center;
   gap: 16px;
 }
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  background-color: lightgrey;
+}
