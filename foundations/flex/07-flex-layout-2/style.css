@@ -36,6 +36,10 @@ body {
   padding: 0;
 }
 
+.body .sidebar ul li {
+  margin-bottom: 16px;
+}
+
 .body .sidebar a {
   text-decoration: none;
   color: white;
