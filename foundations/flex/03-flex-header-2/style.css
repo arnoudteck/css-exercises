@@ -18,7 +18,8 @@ body {
   padding: 8px;
 }
 
-.left {
+.left,
+.right {
   display: flex;
   align-items: center;
   gap: 16px;
@@ -43,12 +44,6 @@ a {
   /* this removes the line under our links */
   text-decoration: none;
   color: rebeccapurple;
-}
-
-.right {
-  display: flex;
-  gap: 16px;
-  align-items: center;
 }
 
 button {
