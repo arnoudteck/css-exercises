@@ -19,6 +19,8 @@ body {
 
 .left {
   display: flex;
+  align-items: center;
+  gap: 16px;
 }
 
 .logo {
