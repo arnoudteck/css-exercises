@@ -47,6 +47,7 @@ a {
 
 .right {
   display: flex;
+  gap: 16px;
 }
 
 button {
