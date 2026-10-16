@@ -10,6 +10,11 @@ body {
   align-items: center;
 }
 
+.plants {
+  flex-wrap: wrap;
+  max-width: 200px;
+}
+
 .content {
   display: flex;
   gap: 52px;
