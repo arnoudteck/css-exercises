@@ -24,6 +24,14 @@ body {
 
 .cards {
   display: flex;
+  flex-wrap: wrap;
+  gap: 32px;
+  padding: 50px;
+}
+
+.card {
+  width: 300px;
+  padding: 16px;
 }
 
 .footer {
