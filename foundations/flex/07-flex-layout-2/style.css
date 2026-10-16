@@ -51,3 +51,19 @@ body {
   background: royalblue;
   box-sizing: border-box;
 }
+
+.sidebar ul {
+  list-style: none;
+  margin: 16px;
+  padding: 0;
+  font-size: 24px;
+}
+
+.sidebar ul li {
+  margin-bottom: 16px;
+}
+
+.sidebar ul a {
+  text-decoration: none;
+  color: white;
+}
